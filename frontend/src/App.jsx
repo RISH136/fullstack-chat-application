@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Navbar from './components/Navbar'
+import Navbar from './components/NavBar'
 import LoginPage from './pages/LoginPage'
 import SignupPage from './pages/SignupPage'
 import SettingsPage from './pages/SettingsPage'
